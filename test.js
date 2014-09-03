@@ -13,3 +13,5 @@ console.log(jsonString);
 
 
 var jsObject = JSON.parse(jsonString);
+
+console.log(jsObject);
