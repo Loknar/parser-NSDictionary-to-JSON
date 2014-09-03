@@ -1,0 +1,1418 @@
+(
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 660;
+            Width = 585;
+            X = 94;
+            Y = 57;
+        };
+        kCGWindowIsOnscreen = 1;
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 1724456;
+        kCGWindowName = "node_robot \U2014 bash \U2014 80\U00d745";
+        kCGWindowNumber = 37446;
+        kCGWindowOwnerName = Terminal;
+        kCGWindowOwnerPID = 862;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 7473;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 16;
+            Width = 16;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 37370;
+        kCGWindowOwnerName = TeamViewer;
+        kCGWindowOwnerPID = 53388;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 35;
+            X = 10;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 37369;
+        kCGWindowOwnerName = TeamViewer;
+        kCGWindowOwnerPID = 53388;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 37368;
+        kCGWindowOwnerName = TeamViewer;
+        kCGWindowOwnerPID = 53388;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 17936;
+        kCGWindowNumber = 37367;
+        kCGWindowOwnerName = TeamViewer;
+        kCGWindowOwnerPID = 53388;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 472;
+            Width = 240;
+            X = 933;
+            Y = 99;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 42512;
+        kCGWindowName = "Computers & Contacts";
+        kCGWindowNumber = 37366;
+        kCGWindowOwnerName = TeamViewer;
+        kCGWindowOwnerPID = 53388;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 9452;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 472;
+            Width = 540;
+            X = 389;
+            Y = 99;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 177680;
+        kCGWindowName = TeamViewer;
+        kCGWindowNumber = 37365;
+        kCGWindowOwnerName = TeamViewer;
+        kCGWindowOwnerPID = 53388;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 9452;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 660;
+            Width = 585;
+            X = 676;
+            Y = 99;
+        };
+        kCGWindowIsOnscreen = 1;
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 1614824;
+        kCGWindowName = "node_robot \U2014 bash \U2014 80\U00d745";
+        kCGWindowNumber = 36611;
+        kCGWindowOwnerName = Terminal;
+        kCGWindowOwnerPID = 862;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 7473;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBackingLocationVideoMemory = 1;
+        kCGWindowBounds =         {
+            Height = 438;
+            Width = 770;
+            X = 490;
+            Y = 39;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 1394192;
+        kCGWindowName = "Star Trek IV The Voyage Home (1986)";
+        kCGWindowNumber = 35715;
+        kCGWindowOwnerName = Finder;
+        kCGWindowOwnerPID = 281;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 10058;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 778;
+            Width = 1242;
+            X = 38;
+            Y = 22;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 488976;
+        kCGWindowName = "listOfWindows.js \U2014 untitled";
+        kCGWindowNumber = 32957;
+        kCGWindowOwnerName = "Sublime Text";
+        kCGWindowOwnerPID = 7112;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 21345;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBackingLocationVideoMemory = 1;
+        kCGWindowBounds =         {
+            Height = 438;
+            Width = 770;
+            X = 60;
+            Y = 94;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 1394192;
+        kCGWindowName = "node_robot";
+        kCGWindowNumber = 32956;
+        kCGWindowOwnerName = Finder;
+        kCGWindowOwnerPID = 281;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 21345;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 32;
+            Width = 32;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 9744;
+        kCGWindowNumber = 29606;
+        kCGWindowOwnerName = MAMP;
+        kCGWindowOwnerPID = 14674;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 344;
+            Width = 423;
+            X = 746;
+            Y = 53;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 239016;
+        kCGWindowName = MAMP;
+        kCGWindowNumber = 29605;
+        kCGWindowOwnerName = MAMP;
+        kCGWindowOwnerPID = 14674;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 35;
+            X = 10;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 29604;
+        kCGWindowOwnerName = MAMP;
+        kCGWindowOwnerPID = 14674;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 29603;
+        kCGWindowOwnerName = MAMP;
+        kCGWindowOwnerPID = 14674;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 13840;
+        kCGWindowNumber = 29602;
+        kCGWindowOwnerName = MAMP;
+        kCGWindowOwnerPID = 14674;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 100;
+            Width = 100;
+            X = 100;
+            Y = 100;
+        };
+        kCGWindowLayer = 102;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowName = "Focus Proxy";
+        kCGWindowNumber = 29600;
+        kCGWindowOwnerName = "Sublime Text";
+        kCGWindowOwnerPID = 7112;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 35;
+            X = 10;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 29307;
+        kCGWindowOwnerName = iTunes;
+        kCGWindowOwnerPID = 14247;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 29306;
+        kCGWindowOwnerName = iTunes;
+        kCGWindowOwnerPID = 14247;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 17936;
+        kCGWindowNumber = 29305;
+        kCGWindowOwnerName = iTunes;
+        kCGWindowOwnerPID = 14247;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 700;
+            Width = 1093;
+            X = 82;
+            Y = 55;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 656912;
+        kCGWindowName = iTunes;
+        kCGWindowNumber = 29304;
+        kCGWindowOwnerName = iTunes;
+        kCGWindowOwnerPID = 14247;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 10058;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 100;
+            Width = 100;
+            X = 100;
+            Y = 100;
+        };
+        kCGWindowLayer = 102;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowName = "Focus Proxy";
+        kCGWindowNumber = 29302;
+        kCGWindowOwnerName = "Google Chrome";
+        kCGWindowOwnerPID = 3915;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = "0.1000000014901161";
+        kCGWindowBounds =         {
+            Height = 33;
+            Width = 180;
+            X = 871;
+            Y = 142;
+        };
+        kCGWindowLayer = 103;
+        kCGWindowMemoryUsage = 13840;
+        kCGWindowName = "";
+        kCGWindowNumber = 15487;
+        kCGWindowOwnerName = Finder;
+        kCGWindowOwnerPID = 281;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 35;
+            X = 10;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 14258;
+        kCGWindowOwnerName = "Sublime Text";
+        kCGWindowOwnerPID = 7112;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 14257;
+        kCGWindowOwnerName = "Sublime Text";
+        kCGWindowOwnerPID = 7112;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 26128;
+        kCGWindowNumber = 14256;
+        kCGWindowOwnerName = "Sublime Text";
+        kCGWindowOwnerPID = 7112;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 12583;
+        kCGWindowOwnerName = SystemUIServer;
+        kCGWindowOwnerPID = 280;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 0;
+        kCGWindowBounds =         {
+            Height = 101;
+            Width = 320;
+            X = 951;
+            Y = 21;
+        };
+        kCGWindowLayer = 25;
+        kCGWindowMemoryUsage = 42512;
+        kCGWindowName = "";
+        kCGWindowNumber = 9987;
+        kCGWindowOwnerName = Dropbox;
+        kCGWindowOwnerPID = 317;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = "0.0999998077750206";
+        kCGWindowBounds =         {
+            Height = 19;
+            Width = 185;
+            X = 87;
+            Y = 349;
+        };
+        kCGWindowLayer = 103;
+        kCGWindowMemoryUsage = 9744;
+        kCGWindowName = "";
+        kCGWindowNumber = 7460;
+        kCGWindowOwnerName = "Google Chrome";
+        kCGWindowOwnerPID = 3915;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 35;
+            X = 10;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 7457;
+        kCGWindowOwnerName = "Google Chrome";
+        kCGWindowOwnerPID = 3915;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 7456;
+        kCGWindowOwnerName = "Google Chrome";
+        kCGWindowOwnerPID = 3915;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 17936;
+        kCGWindowNumber = 7455;
+        kCGWindowOwnerName = "Google Chrome";
+        kCGWindowOwnerPID = 3915;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 778;
+            Width = 1242;
+            X = 38;
+            Y = 22;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 149008;
+        kCGWindowName = "orderly.js/grammar.y at master \U00b7 zaach/orderly.js";
+        kCGWindowNumber = 7454;
+        kCGWindowOwnerName = "Google Chrome";
+        kCGWindowOwnerPID = 3915;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 1;
+    },
+        {
+        kCGWindowAlpha = 0;
+        kCGWindowBounds =         {
+            Height = 18;
+            Width = 414;
+            X = 38;
+            Y = 782;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 13840;
+        kCGWindowName = "";
+        kCGWindowNumber = 7453;
+        kCGWindowOwnerName = "Google Chrome";
+        kCGWindowOwnerPID = 3915;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 1;
+    },
+        {
+        kCGWindowAlpha = 0;
+        kCGWindowBounds =         {
+            Height = 532;
+            Width = 1134;
+            X = 92;
+            Y = 145;
+        };
+        kCGWindowLayer = 3;
+        kCGWindowMemoryUsage = 2201104;
+        kCGWindowName = "";
+        kCGWindowNumber = 5584;
+        kCGWindowOwnerName = Finder;
+        kCGWindowOwnerPID = 281;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 144;
+            Width = 483;
+            X = 38;
+            Y = 656;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 62992;
+        kCGWindowName = Find;
+        kCGWindowNumber = 5254;
+        kCGWindowOwnerName = Terminal;
+        kCGWindowOwnerPID = 862;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 100;
+            Width = 100;
+            X = 100;
+            Y = 100;
+        };
+        kCGWindowLayer = 102;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowName = "Focus Proxy";
+        kCGWindowNumber = 505;
+        kCGWindowOwnerName = Terminal;
+        kCGWindowOwnerPID = 862;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 35;
+            X = 10;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 491;
+        kCGWindowOwnerName = Terminal;
+        kCGWindowOwnerPID = 862;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 490;
+        kCGWindowOwnerName = Terminal;
+        kCGWindowOwnerPID = 862;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 144912;
+        kCGWindowNumber = 489;
+        kCGWindowOwnerName = Terminal;
+        kCGWindowOwnerPID = 862;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 16;
+            Width = 16;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 0;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 487;
+        kCGWindowOwnerName = SystemUIServer;
+        kCGWindowOwnerPID = 280;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 100;
+            Width = 100;
+            X = 100;
+            Y = 100;
+        };
+        kCGWindowLayer = 102;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowName = "Focus Proxy";
+        kCGWindowNumber = 486;
+        kCGWindowOwnerName = Finder;
+        kCGWindowOwnerPID = 281;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 0;
+        kCGWindowBounds =         {
+            Height = 31;
+            Width = 430;
+            X = 840;
+            Y = 22;
+        };
+        kCGWindowLayer = 23;
+        kCGWindowMemoryUsage = 9744;
+        kCGWindowName = "";
+        kCGWindowNumber = 485;
+        kCGWindowOwnerName = SystemUIServer;
+        kCGWindowOwnerPID = 280;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 800;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = "-2147483625";
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 106;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 100;
+            Width = 100;
+            X = 100;
+            Y = 100;
+        };
+        kCGWindowLayer = 102;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowName = "Focus Proxy";
+        kCGWindowNumber = 68;
+        kCGWindowOwnerName = "com.apple.dock.extra";
+        kCGWindowOwnerPID = 291;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 0;
+        kCGWindowBounds =         {
+            Height = 284;
+            Width = 350;
+            X = 588;
+            Y = 22;
+        };
+        kCGWindowLayer = 25;
+        kCGWindowMemoryUsage = 95760;
+        kCGWindowName = "";
+        kCGWindowNumber = 67;
+        kCGWindowOwnerName = Dropbox;
+        kCGWindowOwnerPID = 317;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 26;
+            X = 750;
+            Y = 0;
+        };
+        kCGWindowIsOnscreen = 1;
+        kCGWindowLayer = 25;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowName = "";
+        kCGWindowNumber = 66;
+        kCGWindowOwnerName = Dropbox;
+        kCGWindowOwnerPID = 317;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 7473;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 800;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowIsOnscreen = 1;
+        kCGWindowLayer = "-2147483603";
+        kCGWindowMemoryUsage = 1296;
+        kCGWindowName = "";
+        kCGWindowNumber = 51;
+        kCGWindowOwnerName = Finder;
+        kCGWindowOwnerPID = 281;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 1;
+        kCGWindowWorkspace = 7473;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 800;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowIsOnscreen = 1;
+        kCGWindowLayer = 20;
+        kCGWindowMemoryUsage = 1296;
+        kCGWindowNumber = 50;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 1;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 35;
+            X = 10;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 49;
+        kCGWindowOwnerName = Finder;
+        kCGWindowOwnerPID = 281;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 48;
+        kCGWindowOwnerName = Finder;
+        kCGWindowOwnerPID = 281;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 13840;
+        kCGWindowNumber = 47;
+        kCGWindowOwnerName = Finder;
+        kCGWindowOwnerPID = 281;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 0;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = "-22";
+        };
+        kCGWindowLayer = 25;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 46;
+        kCGWindowOwnerName = SystemUIServer;
+        kCGWindowOwnerPID = 280;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 1;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 458;
+            X = 776;
+            Y = 0;
+        };
+        kCGWindowIsOnscreen = 1;
+        kCGWindowLayer = 25;
+        kCGWindowMemoryUsage = 54800;
+        kCGWindowName = "";
+        kCGWindowNumber = 43;
+        kCGWindowOwnerName = SystemUIServer;
+        kCGWindowOwnerPID = 280;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 7473;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 46;
+            X = 1234;
+            Y = 0;
+        };
+        kCGWindowIsOnscreen = 1;
+        kCGWindowLayer = 25;
+        kCGWindowMemoryUsage = 9744;
+        kCGWindowName = "";
+        kCGWindowNumber = 38;
+        kCGWindowOwnerName = SystemUIServer;
+        kCGWindowOwnerPID = 280;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 7473;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 800;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = "-2147483624";
+        kCGWindowMemoryUsage = 1296;
+        kCGWindowNumber = 36;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 1;
+        kCGWindowWorkspace = 10058;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 800;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = "-2147483624";
+        kCGWindowMemoryUsage = 1296;
+        kCGWindowNumber = 35;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 1;
+        kCGWindowWorkspace = 9452;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 800;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = "-2147483624";
+        kCGWindowMemoryUsage = 1296;
+        kCGWindowNumber = 34;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 1;
+        kCGWindowWorkspace = 10808;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 800;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowIsOnscreen = 1;
+        kCGWindowLayer = "-2147483624";
+        kCGWindowMemoryUsage = 1296;
+        kCGWindowNumber = 33;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 1;
+        kCGWindowWorkspace = 7473;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 800;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = "-2147483624";
+        kCGWindowMemoryUsage = 1296;
+        kCGWindowNumber = 32;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 1;
+        kCGWindowWorkspace = 21345;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 800;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = "-2147483624";
+        kCGWindowMemoryUsage = 1296;
+        kCGWindowNumber = 31;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 1;
+        kCGWindowWorkspace = 1;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 800;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = "-2147483626";
+        kCGWindowMemoryUsage = 1296;
+        kCGWindowNumber = 30;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 1;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 162;
+            Width = 284;
+            X = 500;
+            Y = 197;
+        };
+        kCGWindowLayer = 100;
+        kCGWindowMemoryUsage = 165392;
+        kCGWindowNumber = 29;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 2;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 163;
+            Width = 333;
+            X = 475;
+            Y = 411;
+        };
+        kCGWindowLayer = 100;
+        kCGWindowMemoryUsage = 26128;
+        kCGWindowNumber = 28;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 2;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 172;
+            Width = 172;
+            X = 844;
+            Y = 276;
+        };
+        kCGWindowLayer = 100;
+        kCGWindowMemoryUsage = 75280;
+        kCGWindowNumber = 27;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 2;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 248;
+            Width = 172;
+            X = 53;
+            Y = 106;
+        };
+        kCGWindowLayer = 100;
+        kCGWindowMemoryUsage = 99856;
+        kCGWindowNumber = 26;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 2;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 44;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 25;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowNumber = 25;
+        kCGWindowOwnerName = Dock;
+        kCGWindowOwnerPID = 278;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 14;
+            Width = 1280;
+            X = 0;
+            Y = 22;
+        };
+        kCGWindowLayer = "-20";
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowName = "Backstop Menubar";
+        kCGWindowNumber = 24;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 10058;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 17936;
+        kCGWindowName = Menubar;
+        kCGWindowNumber = 23;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 10058;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 14;
+            Width = 1280;
+            X = 0;
+            Y = 22;
+        };
+        kCGWindowLayer = "-20";
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowName = "Backstop Menubar";
+        kCGWindowNumber = 22;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 9452;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 17936;
+        kCGWindowName = Menubar;
+        kCGWindowNumber = 21;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 9452;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 14;
+            Width = 1280;
+            X = 0;
+            Y = 22;
+        };
+        kCGWindowLayer = "-20";
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowName = "Backstop Menubar";
+        kCGWindowNumber = 20;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 10808;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 13840;
+        kCGWindowName = Menubar;
+        kCGWindowNumber = 19;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 10808;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 14;
+            Width = 1280;
+            X = 0;
+            Y = 22;
+        };
+        kCGWindowIsOnscreen = 1;
+        kCGWindowLayer = "-20";
+        kCGWindowMemoryUsage = 103952;
+        kCGWindowName = "Backstop Menubar";
+        kCGWindowNumber = 18;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 7473;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowIsOnscreen = 1;
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 144912;
+        kCGWindowName = Menubar;
+        kCGWindowNumber = 17;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 7473;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 14;
+            Width = 1280;
+            X = 0;
+            Y = 22;
+        };
+        kCGWindowLayer = "-20";
+        kCGWindowMemoryUsage = 103952;
+        kCGWindowName = "Backstop Menubar";
+        kCGWindowNumber = 16;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 21345;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 26128;
+        kCGWindowName = Menubar;
+        kCGWindowNumber = 15;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 21345;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 14;
+            Width = 1280;
+            X = 0;
+            Y = 22;
+        };
+        kCGWindowLayer = "-20";
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowName = "Backstop Menubar";
+        kCGWindowNumber = 11;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 1;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 22;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 24;
+        kCGWindowMemoryUsage = 17936;
+        kCGWindowName = Menubar;
+        kCGWindowNumber = 10;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+        kCGWindowWorkspace = 1;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 24;
+            Width = 20;
+            X = 1182;
+            Y = 486;
+        };
+        kCGWindowLayer = 2147483630;
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowName = Cursor;
+        kCGWindowNumber = 6;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 1;
+        kCGWindowStoreType = 2;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 0;
+            Width = 0;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 2147483633;
+        kCGWindowMemoryUsage = 1296;
+        kCGWindowNumber = 5;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 0;
+        kCGWindowStoreType = 1;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 0;
+            Width = 0;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowLayer = 2147483632;
+        kCGWindowMemoryUsage = 1296;
+        kCGWindowName = "Zombie Shield";
+        kCGWindowNumber = 4;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 0;
+        kCGWindowStoreType = 1;
+    },
+        {
+        kCGWindowAlpha = 1;
+        kCGWindowBounds =         {
+            Height = 800;
+            Width = 1280;
+            X = 0;
+            Y = 0;
+        };
+        kCGWindowIsOnscreen = 1;
+        kCGWindowLayer = "-2147483626";
+        kCGWindowMemoryUsage = 5648;
+        kCGWindowName = Desktop;
+        kCGWindowNumber = 2;
+        kCGWindowOwnerName = "Window Server";
+        kCGWindowOwnerPID = 211;
+        kCGWindowSharingState = 2;
+        kCGWindowStoreType = 2;
+    }
+)

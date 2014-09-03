@@ -1,0 +1,30 @@
+{
+  "name": "parser-NSDictionary-to-JSON",
+  "version": "0.0.1",
+  "description": "Parses a serialized NSDictionary to a JSON string.",
+  "author": "Sveinn Floki Gudmundsson <svefgud@gmail.com>",
+  "contributors": [{
+    "name": "Sveinn Floki Gudmundsson",
+    "email": "svefgud@gmail.com"
+  }],
+  "repository" :
+  { "type" : "git",
+    "url" : "https://github.com/Loknar/parser-NSDictionary-to-JSON.git"
+  },
+  "keywords": [
+    "parser",
+    "jison",
+    "NSDictionary",
+    "JSON"
+  ],
+  "bugs": {
+    "url": "https://github.com/Loknar/parser-NSDictionary-to-JSON/issues"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "jison": "~0.4.15"
+  },
+  "license": "MIT"
+}
