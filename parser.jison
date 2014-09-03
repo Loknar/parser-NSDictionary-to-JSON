@@ -80,7 +80,7 @@ var
     : num
         {$$ = $1}
     | STRING
-        {$$ = String(yytext)}
+        {$$ = String(yytext).replace(/\\/g, "%")}
     | STRINGVALUE
         {$$ = '"' + String(yytext) + '"'}
     ;
